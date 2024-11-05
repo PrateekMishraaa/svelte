@@ -51,4 +51,4 @@ In this case, you can specify a fallback value for when no prop is passed at all
 ```js
 /// file: FancyInput.svelte
 let { value = $bindable('fallback'), ...props } = $props();
-```
+```dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
